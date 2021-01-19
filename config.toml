@@ -1,4 +1,4 @@
-baseYRL = "https://honamik-s.github.io/page/"
+getbaseURL = "https://hardcore-knuth-fa4d10.netlify.app/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Minimal"
